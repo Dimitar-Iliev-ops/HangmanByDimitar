@@ -1,0 +1,14 @@
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\bin\Debug\net6.0\hangmnan.exe
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\bin\Debug\net6.0\hangmnan.deps.json
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\bin\Debug\net6.0\hangmnan.runtimeconfig.json
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\bin\Debug\net6.0\hangmnan.dll
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\bin\Debug\net6.0\hangmnan.pdb
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.AssemblyInfoInputs.cache
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.AssemblyInfo.cs
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.csproj.CoreCompileInputs.cache
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.dll
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\refint\hangmnan.dll
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.pdb
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\hangmnan.genruntimeconfig.cache
+C:\Users\mrdil\source\repos\hangmnan\hangmnan\obj\Debug\net6.0\ref\hangmnan.dll
